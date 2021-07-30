@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning perl language
 - 💞️ I’m looking to collaborate on 404
-- 👨‍💻 All of my projects are available at [https://github.com/Anuphongkrystal](https://github.com/Anuphongkrystal)
+- 👨‍💻 All of my projects are available at [https://github.com/anuphong-github](https://github.com/anuphong-github)
 - 📫 How to reach me anuphongforwork@gmail.com
 
 ### Tech Stack
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuphongkrystal&show_icons=true" alt="Anuphong" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuphong-github&show_icons=true" alt="Anuphong" /></p>
 
 ## Connect with me
 
