@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     
 </p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuphong-github&show_icons=true" alt="Anuphong"/></p>
 
 ## Connect with me
 
